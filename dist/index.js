@@ -1,3 +1,3 @@
-import { generateDummyUsers } from "../src/index.js";
+import { generateFakeUsers } from "../src/index.js";
 
-module.exports =  generateDummyUsers  ;
+module.exports = generateFakeUsers ;

@@ -1,6 +1,6 @@
 {
-  "name": "npm_package_DummyUser",
-  "version": "1.0.0",
+  "name": "mg-faker",
+  "version": "1.0.1",
   "description": "A library to generate dummy user to test out you project",
   "main": "src/index.js",
   "type": "module",
@@ -17,12 +17,9 @@
   "license": "ISC",
   "homepage": "https://github.com/stymjhrbd/Npm_DummyUser.git",
   "devDependencies": {
+    "@faker-js/faker": "^8.4.0",
     "@types/faker": "^6.6.9",
     "@types/node": "^20.11.15",
     "typescript": "^5.3.3"
-  },
-  "dependencies": {
-    "@faker-js/faker": "^8.4.0",
-    "faker": "^5.5.3"
   }
 }
