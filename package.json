@@ -1,5 +1,5 @@
 {
-  "name": "mg-faker",
+  "name": "mg_faker",
   "version": "2.2.2",
   "description": "A library to generate dummy user to test out you project",
   "main": "src/index.js",
