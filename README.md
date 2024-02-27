@@ -5,7 +5,7 @@ This is a simple JavaScript module for generating fake user data using [Faker.js
 ## Installation
 
 1. Make sure you have Node.js installed on your machine.
-2. Install Faker.js by running: `npm install @faker-js/faker`
+2. Install package by running: `npm install mg_faker`
 3. Include the `generateFakeUsers` function in your project.
 
 ## Usage
